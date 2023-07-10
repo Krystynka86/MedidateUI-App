@@ -51,7 +51,7 @@ struct HomeView: View {
                     Text("Restart")
                     .font(.system(.title3, design: .rounded))
                     .fontWeight(.bold)
-            }//: Button
+            } //: Button
             .buttonStyle(.borderedProminent)
             .buttonBorderShape(.capsule)
             .controlSize(.large)
