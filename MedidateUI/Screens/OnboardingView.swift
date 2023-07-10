@@ -43,6 +43,7 @@ struct OnboardingView: View {
                 // MARK: - CENTER
                 
                 ZStack{
+                    CircleGroupView(ShapeColor: .white, ShapeOpacity: 0.2)
                      //: ZStack
                     
                     Image("character-1")
