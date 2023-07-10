@@ -110,7 +110,7 @@ struct OnboardingView: View {
         
         ZStack {
           // PARTS OF THE CUSTOM BUTTON
-          
+
           // 1. BACKGROUND (STATIC)
           
           Capsule()
